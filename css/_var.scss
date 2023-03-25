@@ -1,0 +1,23 @@
+// colors
+$default-c: #888;
+$dark-c: #081828;// footer-bg, title-c, header-link
+$publisher-c: #666;
+$pink: #ff6b81;
+$white: #fff;
+
+//border
+$b-eee: #eee;
+
+// background
+$sec-bg: #F9F9F9;
+$fild-bg: #394653;
+
+//family
+$d-family: "inter", sans-serif;
+
+//animation
+@keyframes top_5 {
+    100% {
+        top: -5px;
+    }
+}
